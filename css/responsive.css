@@ -1,0 +1,1344 @@
+
+
+
+@media only screen and (max-width:1024px){
+
+
+
+
+    .mobileMenu .openBar{
+        display:block;
+    }
+    .stickey .mobileMenu .openBar{
+        display:block;
+    }
+    .mainMenu {
+        display: none;
+    }
+    .stickey .mainMenu {
+        display: none;
+    }
+    .fas.fa-bars {
+        display: block;
+    }
+    .topBar {
+        width: 100%;
+    }
+    .topBarContn {
+        width: 50%;
+    }
+    .email {
+        width: 40%;
+        float: left;
+    }
+
+    .gmail {
+        width: 59%;
+        float: left;
+    }
+    .logoArea {
+        width: 10%;
+        float: left;
+        margin-left: 5%;
+    }
+
+   
+
+    .sliderContent {
+        width: 100%;
+        margin-left: 5%;
+    }
+
+    .sliderContent h1 {
+        width: 45%;
+        margin-left:0;
+       
+    }
+
+    .cntrlService {
+        display:table;
+    }
+
+    .childService {
+        width: 26%;
+        margin: 5% 8%;
+    }
+
+    .cntrlAbout {
+        margin: 0 2%;
+    }
+
+    .imageAout {
+        width: 48%;
+    }
+
+    .aboutMe {
+        width: 49%;
+    }
+    .aboutMe p {
+        width: 80%;
+    }
+
+    .subAchived {
+        text-align: center;
+        float: left;
+        width: 42.5%;
+        margin-bottom: 5%;
+    }
+    .cntrlPackage {
+        margin: 6% 10%;
+    }
+    .packages {
+        width: 35%;
+        margin-right: 9%;
+        margin-bottom: 9%;
+    }
+
+    .packages:last-child{
+        margin-bottom:0;
+    }
+
+
+    .cntrlTeam {
+        margin: 5% 5%;
+    }
+
+    .teams {
+        width: 40%;
+    }
+
+
+    .teamSocialIcon {
+        display: none;
+    }
+
+    .forbtn {
+        margin-right: 18%;
+        margin-top: 10%;
+    }
+    .cntrlProject {
+        margin: 5%;
+    }
+    .projects {
+        width: 40%;
+        margin: 2%;
+    }
+    .projects:nth-child(3){
+        margin:2%;
+    }
+    .cntrlBlog {
+        margin: 5%;
+    }
+
+    .blogs {
+        width: 43%;
+        float: left;
+        margin-right: 3%;
+        overflow: hidden;
+        margin-bottom: 3%;
+    }
+
+    .blogs:last-child {
+        margin-right: 12%;
+        margin-top: 3%;
+        margin-bottom:0;
+    }
+
+
+    .cntrlSubFooter {
+        margin: 5%;
+    }
+
+    .subFooter {
+        width: 34%;
+        margin:7%;
+    }
+
+    .subFooter:last-child {
+        margin-top: -26%;
+    }
+    .leftCopyright {
+        width: 45%;
+    }
+    .rightCopyright {
+        width: 45%;
+    }
+
+
+}
+
+
+@media only screen and (max-width:980px){
+
+    .mobileMenu {
+        width: 19%;
+    }
+    .stickey .mobileMenu {
+        margin-top: 1%;
+    }
+
+    .sectionHeading {
+        margin-right: 10%;
+    }
+
+    .childService {
+        width: 26%;
+        margin: 5% 7%;
+    }
+
+    .cntrlAbout {
+        margin: 5%;
+    }
+
+    .aboutMe .pera {
+        margin-bottom: 7%;
+        margin-top: 6%;
+    }
+
+    .aboutMe p {
+        width: 69%;
+        line-height: 1.2;
+    }
+    .imageAout {
+        margin-top: 1%;
+    }
+    .subAchived {
+        margin-right: 0%;
+    }
+
+    .cntrlPackage {
+        margin: 6% 8%;
+    }
+
+    .teams {
+        width: 35%;
+        margin-right: 7%;
+        margin-bottom: 5%;
+    }
+
+    .cntrlProject {
+        margin: 5% 7%;
+    }
+
+    .projects {
+        width: 37%;
+        margin-right: 3%;
+    }
+    .projects:nth-child(3){
+        width: 37%;
+        margin-right: 3%;
+    }
+
+
+    .blogs {
+        width: 39%;
+        margin-right: 6%;
+    }
+
+    .blogs:last-child{
+        width: 40%;
+        margin-right: 16%;
+    }
+
+
+    .subSubcribe {
+        width: 27%;
+        float: left;
+        margin-right: 6%;
+    }
+    .frstFooter {
+        margin-top: 16%;
+    }
+
+    .scndFooter {
+        margin-top: 16%;
+    }
+    .thrdFooter {
+        margin-top: 0%;
+    }
+    .subFooter:last-child {
+        margin-top: -28%;
+    }
+
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width:768px){
+    .overlayContent {
+        top: 21%;
+    }
+
+    .mobileMenu {
+        width: 19%;
+        margin-right: 19%;
+    }
+
+    .stickey .mobileMenu {
+        margin-right: -8%;
+        margin-top: 1.5%;
+    }
+
+    .sectionHeading {
+        margin-right: 30%;
+    }
+
+
+    .topSocialIcon {
+        width: 20%;
+        display: inline-block;
+        margin-left: 1%;
+    }
+
+    .sliderContent {
+        text-align: center;
+        margin: 0 13%;
+    }
+    .sliderContent h1 {
+        width: 47%;
+        font-size: 40px;
+    }
+    .sliderContent a {
+        width: 10%;
+        padding: 1% 3%;
+        display: block;
+        margin: 5% 15%;
+    }
+
+    .sliderSymbol {
+        width: 33%;
+        margin: 8% auto;
+    }
+
+    .childService {
+        width: 29%;
+        margin: 5% 18%;
+        display: block;
+        text-align: center;
+        column-count: 1;
+        padding: 10% 1%;
+    }
+
+
+    .imageAout {
+        width: 64%;
+        float: none;
+        display: block;
+    }
+
+
+    .aboutMe {
+        width: 100%;
+        float: none;
+        margin: 6% 0%;
+    }
+
+    .aboutMe .pera {
+        margin: 3% 0;
+    }
+    .aboutMe p {
+        width: 63%;
+        line-height: 1.5;
+    }
+
+
+    .subAchived {
+        float: none;
+        width: 70%;
+        margin-bottom: 7%;
+        display: block;
+    }
+
+
+    .packages {
+        width: 100%;
+        margin: 44% 49%;
+    }
+
+    .packages {
+        width: 36%;
+        margin: 5% 12%;
+    }
+
+
+    .teams {
+        width: 35%;
+        float: none;
+        display: block;
+        margin: 5% 15%;
+    }
+    .forbtn {
+        margin:0;
+    }
+    .btn {
+        display: block;
+        width: 8%;
+        margin: 5% 25%;
+    }
+    .projects {
+        width: 45%;
+        margin-right: 0;
+        float: none;
+        margin: 5% 9%;
+    }
+
+    .projects:nth-child(3){
+        width: 45%;
+        margin-right: 0;
+        float: none;
+        margin: 5% 9%;
+
+    }
+
+    .blogs {
+        width: 43%;
+        margin-right: 0;
+        float: none;
+        display: block;
+        margin: 5% 11%;
+    }
+
+
+    .subSubcribe {
+        width: 64%;
+        float: none;
+        display: block;
+        margin: 7% 0%;
+        text-align: center;
+    }
+
+    .inputArea {
+        width: 100%;
+        position: relative;
+    }
+
+    .inputArea input[type="submit"] {
+        width: 24%;
+    }
+
+    .sbscbSclicn i {
+        margin-right: 2%;
+    }
+
+    .subFooter {
+        width: 65%;
+        margin: 5% 0;
+        float: none;
+        display: block;
+        text-align: center;
+    }
+
+    .subFooter:last-child{
+        width: 65%;
+        margin: 5% 0;
+        float: none;
+        display: block;
+        text-align: center;
+    }
+
+    .frstFtrText {
+        width: 100%;
+        text-align: center;
+    }
+
+    .frstFtrSclicns {
+        text-align: center;
+    }
+
+
+    .icncntnt i {
+        color: #f25100;
+        float: none;
+        text-align: center;
+        margin: auto;
+        display: block;
+    }
+    .icncntnt p {
+        float: none;
+        width: 100%;
+        color: #ababab;
+        display: block;
+        margin: 2% 0;
+    }
+
+
+    .thrdFtrMenu {
+        margin-top: 0;
+        width: 100%;
+    }
+
+
+    .thrdFtrMenu span {
+        display: none;
+    }
+
+    .cntrlRcntPost {
+        margin: 5% 28%;
+    }
+
+
+    .cmnt {
+        padding-top: 0%;
+        margin: 5% 25%;
+    }
+    .cntrlCopyright {
+        padding: 2%;
+    }
+    .rightCopyright {
+        float: none;
+        width: 100%;
+        display: block;
+        width: 100%;
+    }
+    .leftCopyright {
+        float: none;
+        width: 100%;
+        display: block;
+        margin-bottom: 2%;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+ @media only screen and (max-width:480px){
+
+    .overlayContent {
+        top: 22%;
+    }
+    .overlayContent a {
+        font-size: 25px;
+        margin: 5% 0;
+    }
+    .closebtn {
+        font-size: 30px;
+        left: 85%;
+        top: 10%;
+    }
+
+
+    .mobileMenu {
+        margin-right: 44%;
+    }
+
+    .stickey .mobileMenu {
+        margin-right: -3%;
+        margin-top: 4%;
+    }
+    .stickey .logoArea {
+        margin-left: 5%;
+    }
+
+
+    .email {
+        width: 81%;
+        float: none;
+        text-align: center;
+        display: block;
+    }
+    .gmail {
+        width: 90%;
+        float: none;
+        display: block;
+        text-align: center;
+    }
+
+    .topSocialIcon {
+        width: 42%;
+        margin-left: 0;
+        float: none;
+        display: block;
+        text-align: center;
+        margin-top: 1%;
+    }
+
+    .topSocialIcon i {
+        border-radius: 100%;
+        margin: 2%;
+    }
+
+    .sliderContent {
+        margin: 0;
+    }
+    .sliderContent h1 {
+        width: 42%;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .sliderContent a {
+        padding: 1% 2%;
+        margin: 5% 14%;
+    }
+
+
+    .sliderSymbol {
+        width: 63%;
+        margin: 9% auto;
+    }
+    .childService {
+        width: 42%;
+        margin: 0;
+        display: block;
+        text-align: center;
+        column-count: 1;
+        padding: 10%;
+        float: none;
+        margin-bottom: 10%;
+    }
+
+    .childService:hover {
+        transform: translateY(0);
+    }
+    .cntrlAbout {
+        margin: 3%;
+    }
+
+    .imageAout {
+        width: 39%;
+        float: none;
+        display: block;
+        text-align: center;
+    }
+
+
+    .aboutMe p {
+        width: 30%;
+        line-height: 1.7;
+    }
+
+    .subAchived {
+        width: 45%;
+    }
+
+    .sectionHeading p {
+        width: 80%;
+    }
+
+
+    .sectionHeading {
+        margin-right: 57%;
+    }
+    .sectionHeading h2 {
+        font-size: 32px;
+    }
+
+    .cntrlPackage {
+        margin: 0;
+    }
+
+
+    .packages {
+        width: 100%;
+        margin: 20% 24%;
+        float: none;
+        display: block;
+    }
+
+    .packages:hover {
+        transform: translateY(0px);
+    }
+    .cntrlTeam {
+        margin: 5% 4%;
+    }
+
+    .teams {
+        width: 38%;
+        float: none;
+        display: block;
+        margin: 0;
+    }
+
+
+    .btn {
+        margin: 5% 11%;
+    }
+
+    .cntrlProject {
+        margin: 4% 3%;
+    }
+
+
+    
+    .projects {
+        width: 39%;
+        margin-right: 0;
+        float: none;
+        margin:3% 0;
+        display: block;
+    }
+
+    .projects:nth-child(3){
+        width: 39%;
+        margin-right: 0;
+        float: none;
+        margin:3% 0;
+        display: block;
+    }
+    .cntrlBlog {
+        margin: 5% 4%;
+    }
+
+    .blogs {
+        width: 37%;
+        margin-right: 0;
+        margin: 5% 0;
+    }
+
+    .subSubcribe {
+        width: 38%;
+    }
+
+    .subFooter {
+        width: 37%;
+    }
+
+    .frstFooter {
+        margin-top: 13%;
+    }
+
+
+    .cntrlRcntPost {
+        margin: 0;
+    }
+
+    .subFooter:last-child {
+        width: 37%;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:450px){
+
+
+    .mobileMenu {
+        margin-right: 48%;
+    }
+    .logoArea {
+        margin-left: 4%;
+    }
+
+   
+    .topBar {
+        margin: 0 -2%;
+    }
+    .sliderContent {
+        margin: 0 -1%;
+    }
+    .sliderContent p {
+        width: 41%;
+    }
+
+    .cntrlService {
+        margin: 0 -2%;
+    }
+
+
+
+    .imageAout {
+        width: 35%;
+    }
+    .cntrlAbout {
+        margin: 0 4%;
+    }
+
+    .subAchived {
+        width: 41%;
+    }
+
+
+    .cntrlPackage {
+        margin: 0 -2%;
+    }
+    .cntrlTeam {
+        margin: 5%;
+    }
+    .teams {
+        width: 32%;
+    }
+    .cntrlProject {
+        margin: 4% 3%;
+    }
+
+    .projects {
+        width: 35%;
+    }
+    .projects:nth-child(3){
+        width: 35%;
+    }
+
+    .cntrlBlog {
+        margin: 5% 4%;
+    }
+    .blogs {
+        width: 34%;
+    }
+
+
+    .subSubcribe {
+        width: 34%;
+    }
+
+    .subFooter {
+        width: 32%;
+    }
+    .leftCopyright {
+        margin-bottom: 1%;
+    }
+
+
+}
+
+
+
+@media only screen and (max-width:420px){
+
+    .stickey .mobileMenu {
+        margin-top: 5%;
+    }
+    .logoArea {
+        margin-left: 3%;
+    }
+    .mobileMenu {
+        margin-right: 50%;
+    }
+
+    .sliderContent p {
+        width: 34%;
+        margin: 0 3%;
+    }
+    .sliderSymbol {
+        width: 67%;
+        margin: 10% auto;
+    }
+    .cntrlAbout {
+        margin: 0 3%;
+    }
+    .imageAout {
+        width: 33%;
+    }
+
+
+    .subAchived {
+        width: 37%;
+    }
+
+    .sectionHeading {
+        margin-right: 63%;
+    }
+
+
+    .cntrlPackage {
+        margin: 0 -3%;
+    }
+
+    .cntrlTeam {
+        margin: 4%;
+    }
+
+    .projects {
+        width: 33%;
+    }
+    .projects:nth-child(3){
+        width: 33%;
+    }
+
+    .blogs {
+        width: 32%;
+    }
+
+    .blogs:last-child{
+        width: 32%;
+    }
+
+
+    .subSubcribe {
+        width: 31%;
+    }
+
+    .subFooter {
+        width: 30%;
+    }
+    .subFooter:last-child {
+        width: 30%;
+    }
+    .inputArea input[type="submit"] {
+        width: 30%;
+    }
+
+
+}
+
+
+
+
+@media only screen and (max-width:390px){
+
+    .stickey .mobileMenu {
+        margin-top: 6%;
+    }
+
+    .logoArea {
+        margin-left: 2%;
+    }
+    .mobileMenu {
+        margin-right: 51%;
+    }
+
+  
+    .topBarContn {
+        width: 43%;
+    }
+
+    .topSocialIcon {
+        width: 37%;
+    }
+
+    .sliderContent {
+        margin: 0 -4%;
+    }
+    .sliderContent p {
+        width: 32%;
+        margin: 0px 5%;
+    }
+    .sliderSymbol {
+        width: 72%;
+        margin: 10% auto;
+    }
+
+    .cntrlService {
+        margin: 0 -4%;
+    }
+
+
+    .cntrlAbout {
+        margin: 0 2%;
+    }
+
+    .imageAout {
+        width: 31%;
+    }
+
+
+    .subAchived {
+        width: 33%;
+    }
+
+    .sectionHeading {
+        margin-right: 65%;
+    }
+
+    .packages {
+        width: 98%;
+    }
+    .projects:nth-child(3){
+        width: 98%;
+    }
+    .cntrlPackage {
+        margin: 0 -4%;
+    }
+
+
+
+    .teams {
+        width: 29%;
+    }
+
+    .btn {
+        margin: 5% 8%;
+    }
+    .projects {
+        width: 30%;
+    }
+    .projects:nth-child(3){
+        width: 30%;
+    }
+
+    .blogs {
+        width: 29%;
+    }
+
+    .blogs:last-child{
+        width: 29%;
+    }
+
+
+    .subFooter {
+        width: 27%;
+    }
+
+    .subFooter:last-child {
+        width: 27%;
+    }
+    .cntrlCopyright {
+        padding: 3% 1%;
+    }
+    .leftCopyright {
+        width: 28% ;
+        line-height: 22px;
+    }
+    .rightCopyright ul li a {
+        margin: 100%;
+    }
+
+    .rightCopyright ul li a {
+        margin: -53%;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width:375px){
+
+    .logoArea {
+        margin-left: 1%;
+    }
+
+    .mobileMenu {
+        margin-right: 53%;
+        margin-top: .1%;
+    }
+
+
+
+    .topBar {
+        margin: 0 -3%;
+    }
+
+.sliderContent h1 {
+        width: 33%;
+        font-size: 25px;
+    }
+
+.sliderContent {
+	margin: 0 -1%;
+}
+.sliderContent p {
+	width: 24%;
+}
+
+.sliderContent a {
+	margin: 5% 10%;
+}
+
+.childService {
+	width: 39%;
+}
+.imageAout {
+	width: 29%;
+}
+
+.packages {
+	width: 92%;
+}
+
+.sectionHeading {
+	margin-right: 67%;
+}
+
+.teams {
+	width: 27%;
+}
+
+
+.btn {
+	margin: 5% 6%;
+}
+
+
+.projects {
+	width: 28%;
+}
+
+.projects:nth-child(3){
+	width: 28%;
+}
+
+.blogs {
+	width: 27%;
+}
+.blogs:last-child{
+	width: 27%;
+}
+
+.subSubcribe {
+	width: 26%;
+}
+
+.inputArea input[type="submit"] {
+	width: 33%;
+}
+
+.sbscbSclicn i {
+	margin-right: 5%;
+}
+.subFooter {
+	width: 25%;
+}
+
+.subFooter:last-child {
+	width: 25%;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:350px){
+
+    .mobileMenu {
+        margin-right: 54%;
+        margin-top: .1%;
+    }
+
+    .gmail {
+        width: 79%;
+    }
+    .email {
+        width: 76%;
+    }
+
+    .topSocialIcon {
+        width: 34%;
+    }
+    .sliderSymbol {
+        width: 75%;
+        margin: 11% auto;
+    }
+
+    .childService {
+        width: 36%;
+    }
+
+
+    .imageAout {
+        width: 27.5%;
+    }
+
+    .subAchived {
+        width: 31%;
+    }
+
+    .sectionHeading {
+        margin-right: 69%;
+    }
+
+
+    .packages {
+        width: 84%;
+    }
+
+
+    .teams {
+        width: 25%;
+    }
+
+    .projects {
+        width: 26%;
+    }
+
+    .projects:nth-child(3){
+        width: 26%;
+    }
+
+    .blogs {
+        width: 25%;
+    }
+
+    .blogs:last-child{
+        width: 25%;
+    }
+    .subSubcribe {
+        width: 24%;
+    }
+
+    .inputArea input[type="submit"] {
+        width: 36%;
+    }
+
+
+    .subFooter {
+        width: 23%;
+    }
+    .subFooter:last-child {
+        width: 23%;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:330px){
+
+    .topBar {
+        margin: 0 -2.5%;
+    }
+    .logoArea {
+        margin-left: 0.5%;
+    }
+    .mobileMenu {
+        margin-right: 55.5%;
+        margin-top: .1%;
+    }
+
+    .email {
+        width: 73%;
+    }
+    .gmail {
+        width: 75%;
+    }
+    .sliderContent {
+        margin: 0 -2%;
+    }
+
+    .sliderContent a {
+        margin: 5% 9%;
+    }
+
+    .childService {
+        width: 34%;
+    }
+
+    .imageAout {
+        width: 26%;
+    }
+    .aboutMe p {
+        width: 26%;
+        line-height: 1.7;
+    }
+
+    .sectionHeading {
+        margin-right: 71%;
+    }
+
+
+.subAchived {
+	width: 29%;
+}
+
+.cntrlPackage {
+	margin: 0 -4.5%;
+}
+.packages {
+	width: 83%;
+}
+
+
+.teams {
+	width: 23%;
+}
+
+.projects {
+	width: 24.5%;
+}
+
+
+.projects:nth-child(3){
+	width: 24.5%;
+}
+.imageAout {
+	width: 24.5%;
+}
+.cntrlAbout {
+	margin: 0 3%;
+}
+.blogs {
+	width: 23%;
+}
+.blogs:last-child{
+	width: 23%;
+}
+
+.subSubcribe {
+	width: 22%;
+}
+
+.inputArea input[type="submit"] {
+	width: 37%;
+}
+
+
+.subFooter {
+	width: 22%;
+}
+.subFooter:last-child {
+	width: 22%;
+}
+
+.leftCopyright {
+	width: 27%;
+}
+
+}
+
